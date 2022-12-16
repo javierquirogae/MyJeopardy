@@ -30,6 +30,7 @@ h1, button {
 }
 
 .fa{
-  font-size: 20rem;
-  opacity: 0.1;
+  font-size: 10rem;
+  opacity: 0.05;
+  animation: 10.1s;
 }
