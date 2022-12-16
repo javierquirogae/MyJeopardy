@@ -30,7 +30,13 @@ h1, button {
 }
 
 .fa{
-  font-size: 10rem;
-  opacity: 0.05;
+  font-size: 5rem;
+  opacity: 0.1;
   animation: 10.1s;
+}
+h2{
+  opacity: 0.1;
+}
+h2, a {
+  display: inline;
 }
