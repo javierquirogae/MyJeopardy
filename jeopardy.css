@@ -40,3 +40,6 @@ h2{
 h2, a {
   display: inline;
 }
+thead{
+  background-color: rgb(12, 11, 11);
+}
